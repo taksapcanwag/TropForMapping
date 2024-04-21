@@ -1,6 +1,6 @@
 # Tropical forest mapping using high-resolution SAR and deep learning
 
-This repository contains data, models and scripts used for the MSc thesis of Shoyo Nakamura at Wageningen University in the Netherlands.
+This repository contains scripts and models used for the MSc thesis of Shoyo Nakamura at Wageningen University in the Netherlands.
 
 ## Table of Contents
 
